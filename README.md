@@ -1,3 +1,5 @@
 # FWD_Design
 
-The project hasn't been completed yet just an intial upload to prevent revoking
+### Static Design Video Link : https://www.youtube.com/watch?v=VPsDnGGa6LM
+### Dynamic Design Video Link : https://www.youtube.com/watch?v=L2Eq7TACurM
+
